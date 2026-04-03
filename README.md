@@ -58,7 +58,7 @@ public class DeepanshuChaurasia {
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ### **Currently Learning** 🔥
-`Spring Boot` • `Microservices` • `System Design` • `Advanced DSA` • `AI/ML Fundamentals`
+`Spring Boot` • `Microservices` • `System Design` • `DSA` • `AI/ML Fundamentals`
 
 </div>
 
@@ -67,18 +67,13 @@ public class DeepanshuChaurasia {
 
 ## 📊 GitHub Statistics
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=deepanshu-chaurasia29&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepanshu-chaurasia29&theme=tokyonight&hide_border=true&layout=compact&langs_count=6" alt="Top Languages" width="49%" />
-</div>
+
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=deepanshu-chaurasia29&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="70%" />
 </div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=deepanshu-chaurasia29&theme=tokyonight&no-frame=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-</div>
+
 
 <br/>
 
