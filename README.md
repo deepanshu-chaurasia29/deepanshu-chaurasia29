@@ -64,26 +64,26 @@ public class DeepanshuChaurasia {
 
 ---
 
+
 ## 📊 GitHub Statistics
 
 <div align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=deepanshu-chaurasia29&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepanshu-chaurasia29&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" height="170"/>
-  
+  <img src="https://github-readme-stats.vercel.app/api?username=deepanshu-chaurasia29&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepanshu-chaurasia29&theme=tokyonight&hide_border=true&layout=compact&langs_count=6" alt="Top Languages" width="49%" />
 </div>
 
 <div align="center">
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=deepanshu-chaurasia29&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=deepanshu-chaurasia29&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" alt="Trophies" width="48%"/>
-  
+  <img src="https://streak-stats.demolab.com?user=deepanshu-chaurasia29&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="70%" />
 </div>
 
 <div align="center">
-  
-  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=deepanshu-chaurasia29&theme=tokyo-night&hide_border=true&area=true)
-  
+  <img src="https://github-profile-trophy.vercel.app/?username=deepanshu-chaurasia29&theme=tokyonight&no-frame=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=deepanshu-chaurasia29&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="Contribution Graph" />
 </div>
 
 ---
@@ -91,7 +91,7 @@ public class DeepanshuChaurasia {
 ## 🏆 Achievements & Highlights
 
 <div align="center">
-```
+```text
 📚 Strong foundation in OOP, DSA, and Software Engineering principles
 💻 Building practical projects to apply theoretical knowledge
 🎯 Focused on problem-solving with a disciplined learning approach
@@ -127,10 +127,10 @@ public class DeepanshuChaurasia {
 <div align="center">
   
   ### 💭 Quote of the Day
-  ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
   
   ### 📈 Profile Views
-  ![Visitor Count](https://komarev.com/ghpvc/?username=deepanshu-chaurasia29&color=blueviolet&style=for-the-badge&label=Profile+Views)
+  <img src="https://komarev.com/ghpvc/?username=deepanshu-chaurasia29&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
   
 </div>
 
